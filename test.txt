@@ -2,3 +2,5 @@ This is update for commit 3 on bug-fix branch
 Update for commit 4 on bug-fix branch
 This is update for commit "1"
 update for commit "2"
+
+update for commit "6" on bug-fix
